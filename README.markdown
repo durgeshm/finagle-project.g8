@@ -1,4 +1,4 @@
-A [giter8][g8] template for SBT 0.11 starter project to build HTTP servers and clients using [Finagle][github-finagle] library.
+A [giter8][g8] template for SBT 0.11 starter project to build HTTP servers and clients using Twitter's [Finagle][github-finagle] library.
 
 Other resources:
 
