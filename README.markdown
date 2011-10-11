@@ -1,8 +1,11 @@
 A [giter8][g8] template for SBT 0.11 starter project to build HTTP servers and clients using [Finagle][github-finagle] library.
 
 Other resources:
+
 * [Finagle: A Protocol-Agnostic RPC System][twitter-finagle]
+
 * [Building Network Services with Finagle and Ostrich - Video][tumblr-finagle-ostrich]
+
 * [Finagle and Ostrich Starter Kit][finagle-ostrich-kit]
 
 [g8]: http://github.com/n8han/giter8#readme
