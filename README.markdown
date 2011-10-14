@@ -4,6 +4,8 @@ Other resources:
 
 * [Finagle: A Protocol-Agnostic RPC System][twitter-finagle]
 
+* [Finagle: A Network Stack for the JVM - Video][scaladays-finagle]
+
 * [Building Network Services with Finagle and Ostrich - Video][tumblr-finagle-ostrich]
 
 * [Finagle and Ostrich Starter Kit][finagle-ostrich-kit]
@@ -13,5 +15,6 @@ Other resources:
 [twitter-finagle]: http://engineering.twitter.com/2011/08/finagle-protocol-agnostic-rpc-system.html
 [tumblr-finagle-ostrich]: http://vimeo.com/29763331
 [finagle-ostrich-kit]: https://github.com/bmatheny/finagle-starter-kit
+[scaladays-finagle]: http://days2011.scala-lang.org/node/138/286
 
 
